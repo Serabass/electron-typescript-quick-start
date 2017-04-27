@@ -1,8 +1,6 @@
 {
     "name": "electron-typescript-quick-start",
-    "dependencies": {
-        "angular": "registry:dt/angular#1.6.0+20170321201455"
-    },
+    "dependencies": {},
     "globalDependencies": {
         "electron": "registry:env/electron#0.37.6+20160909065630",
         "electron-builder": "registry:dt/electron-builder#2.0.2+20160316155526",
