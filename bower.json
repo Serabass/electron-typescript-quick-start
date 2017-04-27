@@ -1,0 +1,30 @@
+{
+  "name": "electron-typescript-quick-start",
+  "description": "Clone to try a simple typescript based Electron boilerplate app.",
+  "main": "main.js",
+  "authors": [
+    "Andy Hawkins",
+    "Serabass"
+  ],
+  "license": "CC-by-SA 4.0",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "typescript",
+    "typings"
+  ],
+  "homepage": "https://github.com/Serabass/electron-typescript-quick-start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1"
+  }
+}
